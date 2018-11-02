@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "buggyAdding", "buggyAdding\buggyAdding.pyproj", "{1713DB32-D3B2-4598-BDE0-8ED96B320567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1713DB32-D3B2-4598-BDE0-8ED96B320567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1713DB32-D3B2-4598-BDE0-8ED96B320567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72671E4B-8EB0-4C06-8F3D-17D9C9979F6B}
+	EndGlobalSection
+EndGlobal

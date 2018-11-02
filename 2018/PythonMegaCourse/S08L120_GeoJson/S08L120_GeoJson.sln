@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "S08L120_GeoJson", "S08L120_GeoJson\S08L120_GeoJson.pyproj", "{6BB9793F-7AFF-4FFD-B0A7-3CF9991B01D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB9793F-7AFF-4FFD-B0A7-3CF9991B01D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB9793F-7AFF-4FFD-B0A7-3CF9991B01D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEFFA282-C987-4C21-BBAB-04CD5416AB88}
+	EndGlobalSection
+EndGlobal

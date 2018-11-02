@@ -1,0 +1,15 @@
+shift + right click
+
+select open in powershell
+
+type:  jupyter notebook
+	opens session in browser
+
+select NEW -> Notebook -> Python 3
+	opens new python workspace
+
+enter python code in lines
+	execute code:
+		ctrl + enter = execute
+		shift + enter = new command line
+		alt + enter = both execute and new command line

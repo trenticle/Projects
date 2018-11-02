@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Logging2", "Logging2\Logging2.pyproj", "{6D98D4D6-CBBD-4522-9205-0B761739E6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D98D4D6-CBBD-4522-9205-0B761739E6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D98D4D6-CBBD-4522-9205-0B761739E6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FA0FD6-6A09-463D-9AA6-964713AB6104}
+	EndGlobalSection
+EndGlobal

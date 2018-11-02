@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "S05L80_JSON", "S05L80_JSON\S05L80_JSON.pyproj", "{9173992C-4EE7-4251-BFD3-8F3C521DF884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9173992C-4EE7-4251-BFD3-8F3C521DF884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9173992C-4EE7-4251-BFD3-8F3C521DF884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BF03DC5-5CCB-4C65-B0B8-ECDA375ED7C7}
+	EndGlobalSection
+EndGlobal
