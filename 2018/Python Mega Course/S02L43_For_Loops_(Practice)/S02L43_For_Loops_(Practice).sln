@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "S02L43_For_Loops_(Practice)", "S02L43_For_Loops_(Practice)\S02L43_For_Loops_(Practice).pyproj", "{5F552BBC-ABEF-41E3-A3E7-728819206795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F552BBC-ABEF-41E3-A3E7-728819206795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F552BBC-ABEF-41E3-A3E7-728819206795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0EBDDDD-18C6-4BDC-9073-426ECFD0FFF3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "S07L104_Numpy", "S07L104_Numpy\S07L104_Numpy.pyproj", "{C2A81FEE-F20A-4E93-BA62-095C3C904453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A81FEE-F20A-4E93-BA62-095C3C904453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A81FEE-F20A-4E93-BA62-095C3C904453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C28F91-EB14-4C6D-B9A6-40D72BC1622D}
+	EndGlobalSection
+EndGlobal

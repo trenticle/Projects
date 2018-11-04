@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "S02L49_Functions_Conditionals_Loop", "S02L49_Functions_Conditionals_Loop\S02L49_Functions_Conditionals_Loop.pyproj", "{89B4D414-1B85-4EFB-9FE6-52A2D227AC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B4D414-1B85-4EFB-9FE6-52A2D227AC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B4D414-1B85-4EFB-9FE6-52A2D227AC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D65333B-28B0-413D-B32C-D647B601F135}
+	EndGlobalSection
+EndGlobal
