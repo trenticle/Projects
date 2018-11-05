@@ -10,9 +10,9 @@
 2. Python Mega Course
 	* A Udemy, self-paced course by Ardit Sulce
 	* Begun 14-SEPT-2018
-	* Completed 
+	* Completed (in progress, estimated completion mid-Dec 2018)
 
 3. Github Learning Lab
 	* A self-paced introduction to Github by Github
 	* Begun 04-NOV-2018
-	* Completed
+	* Completed (in progress, estimated completion mid-Nov 2018)
