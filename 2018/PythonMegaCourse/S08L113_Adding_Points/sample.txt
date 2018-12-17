@@ -1,0 +1,13 @@
+>>> volcanoesFile = open('c:\\users\\trent\\desktop\\map\\volcanoes.txt')
+>>> volcanoesText = volcanoesFile.read()
+>>> volcanoesFile.close()
+>>> print(volcanoesText)
+
+>>> import pandas
+>>> volcanoesFile = pandas.read_csv('c:\\users\\trent\\desktop\\map\\volcanoes.txt')
+>>> volcanoesFile
+
+>>> volcanoLat = list(volcanoesFile['LON'])
+>>> volcanoLat
+
+>>> volcanoesFile['LON']

@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>83ae8ccf-0a94-4a47-b154-ede00d2c53bf</ProjectGuid>
+    <ProjectGuid>c2a81fee-f20a-4e93-ba62-095c3c904453</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>S07L104_Numpy.py</StartupFile>
     <SearchPath>
