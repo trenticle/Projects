@@ -1,1 +1,4 @@
 *.log
+/2018/NetBeansProjects/AnagramGame/nbproject/private/
+/2018/NetBeansProjects/AnagramGame/build/
+/2018/NetBeansProjects/HTML5Application/nbproject/private/
