@@ -25,6 +25,25 @@ def view():
     conn.close()
     return rows
 
+def delete(item):
+    conn=sqlite3.connect('d:\\Users\\trent\\Desktop\\New folder\\lite.db')
+    cur=conn.cursor()
+    cur.execute('DELETE FROM store WHERE item=?',(item,))
+    rows=cur.fetchall()
+    conn.commit()
+    conn.close()
+    return rows
+
+def update(quantity,price,item):
+    conn=sqlite3.connect('d:\\Users\\trent\\Desktop\\New folder\\lite.db')
+    cur=conn.cursor()
+    cur.execute('UPDATE store SET quantity=?,price=? WHERE item=?',(quantity,price,item))
+    rows=cur.fetchall()
+    conn.commit()
+    conn.close()
+    return rows
+
+update(11,6,'water glass')
 print(view())
 
 
