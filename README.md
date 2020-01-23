@@ -1,4 +1,18 @@
 # Projects 
+* 2020
+	* A repository of coding projects and training exercises that were started in 2020
+		1. Python Mega Course
+			* A Udemy, self-paced course by Ardit Sulce
+			* Begun 14-SEPT-2018
+			* Completed (in progress, estimated completion DEC 2020)
+
+* 2019
+	* A repository of coding projects and training exercises that were started in 2019
+		1. Python Mega Course
+			* A Udemy, self-paced course by Ardit Sulce
+			* Begun 14-SEPT-2018
+			* Completed (in progress, estimated completion FEB 2019) 
+			
  * 2018
     * A repository of coding projects and training exercises that were started in 2018
 		1. ATBSWP (Automate the Boring Stuff With Python)
@@ -13,9 +27,4 @@
 			* A self-paced introduction to Github by Github
 			* Begun 04-NOV-2018
 			* Completed 28-Nov 2018
-* 2019
-	* A repository of coding projects and training exercises that were started in 2019
-		1. Python Mega Course
-			* A Udemy, self-paced course by Ardit Sulce
-			* Begun 14-SEPT-2018
-			* Completed (in progress, estimated completion FEB 2019) 
+	
