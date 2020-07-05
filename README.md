@@ -1,6 +1,7 @@
 # Projects 
 * 2020
 	* A repository of coding projects and training exercises that were started in 2020
+	* General note: uploads that later are revealed to be security risks will just be deleted instead of updated due to the nature of the repo
 		1. Python Mega Course
 			* A Udemy, self-paced course by Ardit Sulce
 			* Begun 14-SEPT-2018
