@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PMC_S05L36_Conditionals", "PMC_S05L36_Conditionals\PMC_S05L36_Conditionals.pyproj", "{4CF938D7-A69B-4ACC-BF81-4F2A524B7591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF938D7-A69B-4ACC-BF81-4F2A524B7591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF938D7-A69B-4ACC-BF81-4F2A524B7591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1928255D-F293-43E2-A6F2-9D97CBB09E29}
+	EndGlobalSection
+EndGlobal
