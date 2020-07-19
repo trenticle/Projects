@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PMC S09L63 List Comp", "PMC S09L63 List Comp\PMC S09L63 List Comp.pyproj", "{3C334650-D1F9-45FD-B6D8-863DBB97C230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C334650-D1F9-45FD-B6D8-863DBB97C230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C334650-D1F9-45FD-B6D8-863DBB97C230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C1E1A9-CC7F-4EAA-B70D-8D5D920F2A54}
+	EndGlobalSection
+EndGlobal

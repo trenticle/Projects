@@ -16,8 +16,11 @@ while True:
     else:
         results.append(user_input)
 
-print(results)
-
+print(" ".join(results))
+#lesson points
+# 1 define a function
+# 2 then iterate (make a loop)
+# 3 store the output (results.append), and concatenate the output(.join)
 
 
 
