@@ -19,7 +19,5 @@ print(myfile.read_text())
 
 #write to mode='w'
 with open('d:\\users\\trent\\desktop\\sandbox\\vegatables.txt', 'w') as myOtherFile:
-    myOtherFile.write("Tomato")
-
-
+    myOtherFile.write("Tomato \nCucumber \nOnion")
 
