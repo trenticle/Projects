@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "LTSQLFS S01L05 Config New", "LTSQLFS S01L05 Config New\LTSQLFS S01L05 Config New.rptproj", "{DE778E3B-F868-4EC0-934B-1FF6093A12CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE778E3B-F868-4EC0-934B-1FF6093A12CE}.Debug|Default.ActiveCfg = Debug
+		{DE778E3B-F868-4EC0-934B-1FF6093A12CE}.Debug|Default.Build.0 = Debug
+		{DE778E3B-F868-4EC0-934B-1FF6093A12CE}.Debug|Default.Deploy.0 = Debug
+		{DE778E3B-F868-4EC0-934B-1FF6093A12CE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DE778E3B-F868-4EC0-934B-1FF6093A12CE}.DebugLocal|Default.Build.0 = DebugLocal
+		{DE778E3B-F868-4EC0-934B-1FF6093A12CE}.Release|Default.ActiveCfg = Release
+		{DE778E3B-F868-4EC0-934B-1FF6093A12CE}.Release|Default.Build.0 = Release
+		{DE778E3B-F868-4EC0-934B-1FF6093A12CE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {768362DD-B093-4E24-A82F-970A5809962C}
+	EndGlobalSection
+EndGlobal
